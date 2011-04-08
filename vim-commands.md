@@ -1,7 +1,6 @@
-
 ## Exiting
 
-`:w` save the file
+`:w` save the file 
 `:q` quit
 `:q!` quit and throw away unsaved changes
 
