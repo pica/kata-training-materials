@@ -1,3 +1,10 @@
+## Opening files
+`<Cmd> T` Open fuzzy finder
+`<Cmd> B` list open buffers
+`<Ctrl> w s` Split window horizontally
+`<Ctrl> w v` Split window vertically
+`<Ctrl> w w` Switch windows
+
 ## Exiting
 
 `:w` save the file  
@@ -8,7 +15,7 @@
 
 `/<pattern>` find pattern  
 `n` repeat the last search  
-`:s/this/that/c` replace 'this' with 'that' throughout the file, with confirmation  
+`:%s/this/that/c` replace 'this' with 'that' throughout the file, with confirmation  
 
 ## Copying/Cutting/Pasting
 
@@ -27,6 +34,7 @@
 
 ## Editing
 
+`esc` get out of insert mode
 `i` insert before the cursor  
 `a` insert after the cursor  
 `I` insert at the beginning of the line  
