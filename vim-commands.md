@@ -43,8 +43,8 @@
 `24G` go to line 24  
 `e` Go to the end of this word  
 `b` go to the beginning of this word  
-'^' first character of line  
-'$' end of line  
-'gg' go to first line (or 0G)  
-'G' go to last line  
+`^` first character of line  
+`$` end of line  
+`gg` go to first line (or 0G)  
+`G` go to last line  
 
