@@ -1,4 +1,4 @@
-* Intro presentation 1hr
+* Intro presentation incl video on Kata 1hr
 * Instructor performs kata w/ questions 1hr
 * Instructor walks class through kata with slides 1.5hr
 * Class works on kata individually 2 x 1.5 hr
